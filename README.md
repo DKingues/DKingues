@@ -1,7 +1,9 @@
   <table>
   <tr>  
-  <td>    
-  <h1 align="center">Welcome to my profile!</h1>
+  <td>
+  <td></td>
+  <td></td>
+  <h1 align="center" padding-left="50px">Welcome to my profile!  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2trNnY5ZHFtYW01N2FlOGlleXgxbDU4eDdudWR1dms3YjcwOGswMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8zPyb24StPSl18dNp9/giphy.gif" width="50%"></h1>
   </td>
   <td>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2trNnY5ZHFtYW01N2FlOGlleXgxbDU4eDdudWR1dms3YjcwOGswMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8zPyb24StPSl18dNp9/giphy.gif" width="50%">
