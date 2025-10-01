@@ -14,7 +14,7 @@
     I enjoy working on interesting projects, writing clean code and working as a team. 
     In my free time I like watching Anime, Gaming, Working out and spending time with friends.
   </p>
-    <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ4czA5OWI0N3R4eHV6ZGpjbzJhaGJrb2dzcmcyZjIzZW5hcDZhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0DuaeUHUo1Ix7R2aMP/giphy.gif" width="100">
+    <img position="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ4czA5OWI0N3R4eHV6ZGpjbzJhaGJrb2dzcmcyZjIzZW5hcDZhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0DuaeUHUo1Ix7R2aMP/giphy.gif" width="200">
 </details>
 
 <p align="center">
@@ -67,5 +67,5 @@
       <td>C</td>
     </tr>
   </table>
-  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXk4dmViemM1NnRmYWN2cmpsMXNvYjhzOXZkbmxhaDI3aWxibTEycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oDyfeGSOTrckp80kJS/giphy.gif" width="50">
+  <img position="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXk4dmViemM1NnRmYWN2cmpsMXNvYjhzOXZkbmxhaDI3aWxibTEycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oDyfeGSOTrckp80kJS/giphy.gif" width="200">
 </p>
