@@ -1,15 +1,5 @@
-  <table>
-  <tr>  
-  <td>
-  <td></td>
-  <td></td>
-  <h1 align="center" padding-left="50px">Welcome to my profile!  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2trNnY5ZHFtYW01N2FlOGlleXgxbDU4eDdudWR1dms3YjcwOGswMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8zPyb24StPSl18dNp9/giphy.gif" width="50%"></h1>
-  </td>
-  <td>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2trNnY5ZHFtYW01N2FlOGlleXgxbDU4eDdudWR1dms3YjcwOGswMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8zPyb24StPSl18dNp9/giphy.gif" width="50%">
-  </td>
-  </tr>
-  </table>
+<img src="https://github.com/user-attachments/assets/23d26d9c-5f17-4f32-89de-950e67c47f15">
+
 <details>
   <summary><strong>About Me</strong></summary>
 
