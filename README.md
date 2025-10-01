@@ -10,14 +10,16 @@
 
   <table width="100%">
   <tr>
+  <td>
   <p width=50%>
     Hi! I'm Diogo, a Software Developer, I started learning Web Development by myself, and currently I'm a student at 42 Lisboa.
     I enjoy working on interesting projects, writing clean code and working as a team. 
     In my free time I like watching Anime, Gaming, Working out and spending time with friends.
   </p>
-  </tr>
-  <tr width="50%">
+  </td>
+  <td>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnp2dzEwM2Fzemx2ZHdhZGRjMHAybWw1M2xiejR2YTBwZDZqbHJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RIYlDuzPKzRNiNkgHm/giphy.gif" width="400">
+  </td>
   </tr>
   </table>
 </details>
