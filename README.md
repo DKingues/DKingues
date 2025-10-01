@@ -8,7 +8,7 @@
 <details>
   <summary><strong>About Me</strong></summary>
 
-  <table width="100%">
+  <table width="767px" border="none">
   <tr>
   <td>
   <p width=50%>
@@ -18,7 +18,7 @@
   </p>
   </td>
   <td>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnp2dzEwM2Fzemx2ZHdhZGRjMHAybWw1M2xiejR2YTBwZDZqbHJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RIYlDuzPKzRNiNkgHm/giphy.gif" width="400">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnp2dzEwM2Fzemx2ZHdhZGRjMHAybWw1M2xiejR2YTBwZDZqbHJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RIYlDuzPKzRNiNkgHm/giphy.gif" width="50%">
   </td>
   </tr>
   </table>
