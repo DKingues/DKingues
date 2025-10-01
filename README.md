@@ -1,59 +1,20 @@
-<div style="
-  position: relative;
-  width: 100%;
-  min-height: 300px;
-  max-width: 900px;
-  margin: 0 auto 2em auto;
-  border-radius: 18px;
-  overflow: hidden;
-  box-shadow: 0 6px 24px rgba(0,0,0,0.18);
-  background: #222;
-">
-  <!-- Upside-down, full-width background image -->
-  <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd24zMmF3dmRiYTAza3p3YmFpZ3NzZTljejJrOWVscWtsejQ4dTAxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uEHpq0DsO6HDJxbB58/giphy.gif" 
-    alt="About Me Background"
-    style="
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      position: absolute;
-      left: 0;
-      top: 0;
-      z-index: 1;
-      filter: brightness(0.55) blur(1px);
-      transform: rotate(180deg);
-    "
-  >
-  <!-- Overlay text -->
-  <div style="
-    position: relative;
-    z-index: 2;
-    color: #fff; 
-    padding: 3em 2em;
-    text-align: left;
-    font-size: 1.2em;
-    line-height: 1.6;
-    font-family: 'Segoe UI', 'Arial', sans-serif;
-    background: linear-gradient(90deg, rgba(20,20,20,0.88) 60%, rgba(20,20,20,0.40) 100%);
-  ">
+<img src="" >
 <p align="center">
   <h1>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDk5eXRwZ3VtZWg1cng2bXNiMXRhbWU0MTFudGpwYXN3aDE1MXZ2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AuzXrtwNs3W4Y8Oi8z/giphy.gif" width="50">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBxM2dhd3IydjJkcTlqNzRmcXpiNjlmYW9sbzF2MGczMHIwY21payZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/108JHWB1hruZnq/giphy.gif" width="50">
     Welcome to my profile!
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB3djFybnBjMnE5ZzlhbGlsd2hiM3psd3NzbDN0N2w5dXY2ZjJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPm1jPvUV4ciUlamxa/giphy.gif" width="50">
   </h1>
 </p>
 <details>
   <summary><strong>About Me</strong></summary>
 
 
-  <p>
+  <p width=50%>
     Hi! I'm Diogo, a Software Developer, I started learning Web Development by myself, and currently I'm a student at 42 Lisboa.
     I enjoy working on interesting projects, writing clean code and working as a team. 
     In my free time I like watching Anime, Gaming, Working out and spending time with friends.
   </p>
-    <img position="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ4czA5OWI0N3R4eHV6ZGpjbzJhaGJrb2dzcmcyZjIzZW5hcDZhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0DuaeUHUo1Ix7R2aMP/giphy.gif" width="200">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnp2dzEwM2Fzemx2ZHdhZGRjMHAybWw1M2xiejR2YTBwZDZqbHJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RIYlDuzPKzRNiNkgHm/giphy.gif" width=50%>
 </details>
 
 <p align="center">
@@ -61,47 +22,47 @@
   <h2>42 School</h2>
   <table width="100%">
     <tr>
-      <td><a>libft</a></td>
+      <td><a href="https://github.com/DKingues/libft">libft</a></td>
       <td>Made a library mostly containing string management tools.</td>
       <td>C</td>
     </tr>
     <tr>
-      <td><a>ft_printf</a></td>
+      <td><a href="https://github.com/DKingues/ft_printf">ft_printf</a></td>
       <td>Created a replica of the original printf function.</td>
       <td>C</td>
     </tr>
     <tr>
-      <td><a>get_next_line</a></td>
+      <td><a href="https://github.com/DKingues/get_next_line">get_next_line</a></td>
       <td>Programed a function that returns a line read from a file descriptor.</td>
       <td>C</td>  
     </tr>
     <tr>
-      <td><a>push_swap</a></td>
+      <td><a href="https://github.com/DKingues/push_swap">push_swap</a></td>
       <td>Implemented a algorithm to sort a given list of numbers in the smallest ammount of movements.</td>
       <td>C</td>
     </tr>
     <tr>
-      <td><a>so_long</a></td>
+      <td><a href="https://github.com/DKingues/so_long">so_long</a></td>
       <td>Designed and coded a 2D game using MinilibX graphic library.</td>
       <td>C</td>
     </tr>
     <tr>
-      <td><a>minitalk</a></td>
+      <td><a href="https://github.com/DKingues/minitalk">minitalk</a></td>
       <td>Created a client to server message exchanger using bitwise operations.</td>
       <td>C</td>
     </tr>
     <tr>
-      <td><a>minishell</a></td>
+      <td><a href="https://github.com/DKingues/minishell">minishell</a></td>
       <td>Developed a custom UNIX Shell that replicated basic Bash functionality.</td>
       <td>C</td>
     </tr>
     <tr>
-      <td><a>philosophers</a></td>
+      <td><a href="https://github.com/DKingues/philosophers">philosophers</a></td>
       <td>Solved the Dining philosophers problem using threads and mutexes.</td>
       <td>C</td>
     </tr>
     <tr>
-      <td><a>cub3d</a></td>
+      <td><a href="https://github.com/DKingues/cub3d">cub3d</a></td>
       <td>On going ...</td>
       <td>C</td>
     </tr>
