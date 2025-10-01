@@ -1,9 +1,11 @@
 <p align="center">
+<div width=100% height="50">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDk5eXRwZ3VtZWg1cng2bXNiMXRhbWU0MTFudGpwYXN3aDE1MXZ2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AuzXrtwNs3W4Y8Oi8z/giphy.gif" width="50"><h1 align="center">Rise and Shine, Welcome to my profile!</h1><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB3djFybnBjMnE5ZzlhbGlsd2hiM3psd3NzbDN0N2w5dXY2ZjJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPm1jPvUV4ciUlamxa/giphy.gif" width="50">
+</div>
 
 <p align="center">
 <details>
-  <summary><strong>About Me</strong></summary>
+  <summary><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ4czA5OWI0N3R4eHV6ZGpjbzJhaGJrb2dzcmcyZjIzZW5hcDZhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0DuaeUHUo1Ix7R2aMP/giphy.gif" width="30"><strong>About Me</strong></summary>
 
 
   <p>
