@@ -21,39 +21,51 @@
   <h1>My Projects</h1>
   <h2>42 School</h2>
   <table width="100%">
-    <td>
-      <tr><a>libft</a></tr>
-      <tr><a>ft_printf</a></tr>
-      <tr><a>get_next_line</a></tr>
-      <tr><a>push_swap</a></tr>
-      <tr><a>so_long</a></tr>
-      <tr><a>minitalk</a></tr>
-      <tr><a>minishell</a></tr>
-      <tr><a>philosophers</a></tr>
-      <tr><a>cub3d</a></tr>
-    </td>
-    <td>
-      <tr>Made a library mostly containing string management tools.</tr>
-      <tr>Created a replica of the original printf function.</tr>
-      <tr>Programed a function that returns a line read from a file descriptor.</tr>
-      <tr>Implemented a algorithm to sort a given list of numbers in the smallest ammount of movements.</tr>
-      <tr>Designed and coded a 2D game using MinilibX graphic library.</tr>
-      <tr>Created a client to server message exchanger using bitwise operations.</tr>
-      <tr>Developed a custom UNIX Shell that replicated basic Bash functionality.</tr>
-      <tr>Solved the Dining philosophers problem using threads and mutexes.</tr>
-      <tr>On going ...</tr>
-    </td>
-    <td>
-      <tr>C</tr>
-      <tr>C</tr>
-      <tr>C</tr>
-      <tr>C</tr>
-      <tr>C</tr>
-      <tr>C</tr>
-      <tr>C</tr>
-      <tr>C</tr>
-      <tr>C</tr>
-    </td>
+    <tr>
+      <td><a>libft</a></td>
+      <td>Made a library mostly containing string management tools.</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td><a>ft_printf</a></td>
+      <td>Created a replica of the original printf function.</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td><a>get_next_line</a></td>
+      <td>Programed a function that returns a line read from a file descriptor.</td>
+      <td>C</td>  
+    </tr>
+    <tr>
+      <td><a>push_swap</a></td>
+      <td>Implemented a algorithm to sort a given list of numbers in the smallest ammount of movements.</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td><a>so_long</a></td>
+      <td>Designed and coded a 2D game using MinilibX graphic library.</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td><a>minitalk</a></td>
+      <td>Created a client to server message exchanger using bitwise operations.</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td><a>minishell</a></td>
+      <td>Developed a custom UNIX Shell that replicated basic Bash functionality.</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td><a>philosophers</a></td>
+      <td>Solved the Dining philosophers problem using threads and mutexes.</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td><a>cub3d</a></td>
+      <td>On going ...</td>
+      <td>C</td>
+    </tr>
   </table>
   <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXk4dmViemM1NnRmYWN2cmpsMXNvYjhzOXZkbmxhaDI3aWxibTEycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oDyfeGSOTrckp80kJS/giphy.gif" width="50">
 </p>
