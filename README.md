@@ -1,5 +1,42 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd24zMmF3dmRiYTAza3p3YmFpZ3NzZTljejJrOWVscWtsejQ4dTAxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uEHpq0DsO6HDJxbB58/giphy.gif">
-
+<div style="
+  position: relative;
+  width: 100%;
+  min-height: 300px;
+  max-width: 900px;
+  margin: 0 auto 2em auto;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.18);
+  background: #222;
+">
+  <!-- Upside-down, full-width background image -->
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd24zMmF3dmRiYTAza3p3YmFpZ3NzZTljejJrOWVscWtsejQ4dTAxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uEHpq0DsO6HDJxbB58/giphy.gif" 
+    alt="About Me Background"
+    style="
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: 1;
+      filter: brightness(0.55) blur(1px);
+      transform: rotate(180deg);
+    "
+  >
+  <!-- Overlay text -->
+  <div style="
+    position: relative;
+    z-index: 2;
+    color: #fff; 
+    padding: 3em 2em;
+    text-align: left;
+    font-size: 1.2em;
+    line-height: 1.6;
+    font-family: 'Segoe UI', 'Arial', sans-serif;
+    background: linear-gradient(90deg, rgba(20,20,20,0.88) 60%, rgba(20,20,20,0.40) 100%);
+  ">
 <p align="center">
   <h1>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDk5eXRwZ3VtZWg1cng2bXNiMXRhbWU0MTFudGpwYXN3aDE1MXZ2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AuzXrtwNs3W4Y8Oi8z/giphy.gif" width="50">
