@@ -1,25 +1,13 @@
 <img src="https://github.com/user-attachments/assets/23d26d9c-5f17-4f32-89de-950e67c47f15">
 
-<details>
-  <summary><strong>About Me</strong></summary>
-
-  <table width="767px" border="none">
-  <tr>
-  <td>
+<br></br><h1>About Me</h1>
   <p width=50%>
     Hi! I'm Diogo, a Software Developer, I started learning Web Development by myself, and currently I'm a student at 42 Lisboa.
     I enjoy working on interesting projects, writing clean code and working as a team. 
     In my free time I like watching Anime, Gaming, Working out and spending time with friends.
   </p>
-  </td>
-  <td>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnp2dzEwM2Fzemx2ZHdhZGRjMHAybWw1M2xiejR2YTBwZDZqbHJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RIYlDuzPKzRNiNkgHm/giphy.gif" width="50%">
-  </td>
-  </tr>
-  </table>
-</details>
 
-<p align="center">
+<br></br><p align="center">
   <h1>My Projects</h1>
   <h2>42 School</h2>
   <table width="100%">
@@ -69,5 +57,4 @@
       <td>C</td>
     </tr>
   </table>
-  <img position="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXk4dmViemM1NnRmYWN2cmpsMXNvYjhzOXZkbmxhaDI3aWxibTEycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oDyfeGSOTrckp80kJS/giphy.gif" width="200">
 </p>
