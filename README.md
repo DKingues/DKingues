@@ -54,16 +54,20 @@
   </table>
 
   <br></br>
-  <strong>Others</strong>
+  <strong>Personal Projects</strong>
   <br></br>
     <table>
     <tr>
-      <td><a href="https://github.com/DKingues/basic_calculator/tree/main">Calculator</a></td>
-      <td>Created a basic calculator that deals with addition, subtraction, division and multiplication.</td>
+      <td><a href="https://github.com/DKingues/galp_hackaton">Galp_Hackaton</a></td>
+      <td>Designed and built a, user-friendly frontend with Next.js that encouraged repeat usage.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DKingues/Etch-a-sketch">Etch-a-sketch</a></td>
       <td>Designed a simple etch a sketch.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DKingues/basic_calculator/tree/main">Calculator</a></td>
+      <td>Created a basic calculator that deals with addition, subtraction, division and multiplication.</td>
     </tr>
   </table>
 </p>
