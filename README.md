@@ -9,52 +9,55 @@
 
 <br></br><p align="center">
   <h1>My Projects</h1>
-  <h2>42 School</h2>
-  <table width="100%">
+  <br></br><h2>42 School</h2>
+  <table>
     <tr>
       <td><a href="https://github.com/DKingues/libft">libft</a></td>
       <td>Made a library mostly containing string management tools.</td>
-      <td>C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DKingues/ft_printf">ft_printf</a></td>
       <td>Created a replica of the original printf function.</td>
-      <td>C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DKingues/get_next_line">get_next_line</a></td>
       <td>Programed a function that returns a line read from a file descriptor.</td>
-      <td>C</td>  
     </tr>
     <tr>
       <td><a href="https://github.com/DKingues/push_swap">push_swap</a></td>
-      <td>Implemented a algorithm to sort a given list of numbers in the smallest ammount of movements.</td>
-      <td>C</td>
+      <td>Implemented a algorithm to sort a list of numbers in the smallest amount of movements.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DKingues/so_long">so_long</a></td>
       <td>Designed and coded a 2D game using MinilibX graphic library.</td>
-      <td>C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DKingues/minitalk">minitalk</a></td>
       <td>Created a client to server message exchanger using bitwise operations.</td>
-      <td>C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DKingues/minishell">minishell</a></td>
       <td>Developed a custom UNIX Shell that replicated basic Bash functionality.</td>
-      <td>C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DKingues/philosophers">philosophers</a></td>
       <td>Solved the Dining philosophers problem using threads and mutexes.</td>
-      <td>C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DKingues/cub3d">cub3d</a></td>
       <td>On going ...</td>
-      <td>C</td>
+    </tr>
+  </table>
+
+  <br></br><h2>Others</h2>
+    <table>
+    <tr>
+      <td><a href="https://github.com/DKingues/basic_calculator/tree/main">Calculator</a></td>
+      <td>Created a basic calculator that deals with addition, subtraction, division and multiplication.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DKingues/Etch-a-sketch">Etch-a-sketch</a></td>
+      <td>Designed a simple etch a sketch.</td>
     </tr>
   </table>
 </p>
