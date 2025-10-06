@@ -1,15 +1,19 @@
 <img src="https://github.com/user-attachments/assets/23d26d9c-5f17-4f32-89de-950e67c47f15">
 
-<br></br><h1>About Me</h1>
+<br></br>
+<h1>About Me</h1>
   <p width=50%>
     Hi! I'm Diogo, a Software Developer, I started learning Web Development by myself, and currently I'm a student at 42 Lisboa.
     I enjoy working on interesting projects, writing clean code and working as a team. 
     In my free time I like watching Anime, Gaming, Working out and spending time with friends.
   </p>
 
-<br></br><p align="center">
+<br></br>
+<p align="center">
   <h1>My Projects</h1>
-  <br></br><h2>42 School</h2>
+  <br></br>
+  <strong>42 School</strong>
+  <br></br>
   <table>
     <tr>
       <td><a href="https://github.com/DKingues/libft">libft</a></td>
@@ -49,7 +53,9 @@
     </tr>
   </table>
 
-  <br></br><h2>Others</h2>
+  <br></br>
+  <strong>Others</strong>
+  <br></br>
     <table>
     <tr>
       <td><a href="https://github.com/DKingues/basic_calculator/tree/main">Calculator</a></td>
