@@ -49,6 +49,10 @@
     </tr>
     <tr>
       <td><a href="https://github.com/DKingues/cub3d">cub3d</a></td>
+      <td>Made a 3D game using raycasting, with a few extras like a minimap, menus and modifiable options</td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/DKingues/CPPs">CPP's</a></td>
       <td>On going ...</td>
     </tr>
   </table>
