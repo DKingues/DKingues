@@ -56,7 +56,7 @@
       <td>On going ...</td>
     </tr>
       <tr>
-      <td><a href="https://github.com/DKingues/42_IRC">IRC</a></td>
+      <td><a href="https://github.com/andrelencart/42_IRC">IRC</a></td>
       <td>On going ...</td>
     </tr>
   </table>
